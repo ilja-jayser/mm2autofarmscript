@@ -1,0 +1,5 @@
+for b = 1, 100 do
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ilja-jayser/mm2-autofarm/main/autofarm"))()
+wait(20)
+print("test")
+end
